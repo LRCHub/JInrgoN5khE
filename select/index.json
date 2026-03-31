@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "インベイダー",
   "base_artist": "CLAN QUEEN",
-  "createdAt": "2026-03-29T10:01:47.531863Z",
+  "createdAt": "2026-03-31T05:39:04.326983Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "CLAN QUEEN",
       "has_synced": false,
       "path": "select/pl_01_インベイダー_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "インベイダー",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/localdb_01_インベイダー_CLAN_QUEEN.txt",
+      "repo_name": "JInrgoN5khE"
     }
   ]
 }
